@@ -25,8 +25,8 @@ let lebar = 3;
 let luas = panjang * lebar;
 console.log("Luas persegi panjang: " + luas);
 
-**Menghitung Diameter, Keliling, dan Luas Lingkaran:**
-Deskripsi: Diberikan jari-jari lingkaran, hitung:
+### 2. Menghitung Diameter, Keliling, dan Luas Lingkaran
+**Deskripsi: Diberikan jari-jari lingkaran, hitung:**
 
 Diameter: 2 * radius
 Keliling: 2 * π * radius
